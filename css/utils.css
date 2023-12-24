@@ -1,0 +1,16 @@
+.flex-all-center{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.my-2{
+    margin: 5px -20px;
+}
+.text-center{
+    text-align: center;
+
+}
